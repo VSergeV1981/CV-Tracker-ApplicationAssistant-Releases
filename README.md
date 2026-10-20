@@ -21,19 +21,19 @@ Application Assistant helps organize job applications, track their status, store
 
 When you open the application in a browser, the sign-in page is displayed. Enter your username and password, then select the sign-in button.
 
-<img width="1918" height="1039" alt="01-login" src="https://github.com/user-attachments/assets/366a3843-9ba1-48ff-9171-27eec1d1e197" />
+<img width="1918" height="1039" alt="01-login" src="./File/01-login.png" />
 
 
 If you do not have an account, select **Register** below the sign-in button to open the registration page.
 
-<img width="1917" height="1031" alt="02-registration" src="https://github.com/user-attachments/assets/3d63b26c-e0bd-418a-b039-3b441b195f6b" />
+<img width="1917" height="1031" alt="02-registration" src="./File/02-registration.png" />
 
 
 ## 2. Registration form
 
 The registration form has two sections, accessible through the **User** and **Person** tabs. Use **Save** to save the form or **Cancel** to discard changes.
 
-<img width="850" height="288" alt="03-registration-tabs" src="https://github.com/user-attachments/assets/5f09c42c-1a17-469f-97bc-df936a79e106" />
+<img width="850" height="288" alt="03-registration-tabs" src="./File/03-registration-tabs.png" />
 
 
 ### User details
@@ -48,7 +48,7 @@ Complete the following fields:
 
 An asterisk (*) indicates a required field.
 
-<img width="960" height="653" alt="04-user-form" src="https://github.com/user-attachments/assets/da0c16b1-3fe3-4d81-aa81-c55be203c0a5" />
+<img width="960" height="653" alt="04-user-form" src="./File/04-user-form.png" />
 
 
 ### Personal details
@@ -69,7 +69,7 @@ Switch to the **Person** tab and enter the user's personal and contact informati
 
 Fields marked with an asterisk are required.
 
-<img width="889" height="651" alt="05-personal-data" src="https://github.com/user-attachments/assets/903cd911-48d3-49ae-b8af-977de6f27842" />
+<img width="889" height="651" alt="05-personal-data" src="./File/05-personal-data.png" />
 
 
 ## 3. Main workspace and navigation
@@ -81,7 +81,7 @@ After signing in, the main workspace is displayed. It consists of three areas:
 3. **Footer** — developer information and copyright notice.
 
 
-<img width="1915" height="1028" alt="06-workspace" src="https://github.com/user-attachments/assets/e9d13c57-61f4-4bf6-8509-18a8e040586b" />
+<img width="1915" height="1028" alt="06-workspace" src="./File/06-workspace.png" />
 
 The navigation bar contains:
 
@@ -91,7 +91,7 @@ The navigation bar contains:
 - **LOGOUT** — signs out of the current account.
 - **User profile** — displays the user's avatar and greeting.
 
-<img width="1493" height="174" alt="07-navigation" src="https://github.com/user-attachments/assets/aa94f5fd-a596-46f0-b294-172b8cf9c632" />
+<img width="1493" height="174" alt="07-navigation" src="./File/07-navigation.png" />
 
 ## 4. Home: Kanban board
 
@@ -101,7 +101,7 @@ The Home page displays a Kanban board with colored columns representing applicat
 - **Status columns** — examples include *New*, *Contacted*, *Interview planned*, *Tech interview planned*, *Rejected*, and *Offer*. Each column header shows the number of applications (**COUNT**) in that status.
 - **Application cards** — display the application number (**Nr.**), company, position, creation date and author (**Created at**), and last modification date (**Last changed**).
 
-<img width="1913" height="772" alt="08-kanban-board" src="https://github.com/user-attachments/assets/2e44e722-6ad1-4dfb-92f1-385ffd0ac8d4" />
+<img width="1913" height="772" alt="08-kanban-board" src="./File/08-kanban-board.png" />
 
 ## 5. Processing: application table
 
@@ -128,7 +128,7 @@ The **Processing** page presents registered applications in an interactive table
 - **Geändert bei** — date and time of the last modification.
 - **Geändert von** — user who last edited the record.
 
-<img width="1910" height="756" alt="09-application-table" src="https://github.com/user-attachments/assets/aa957fc4-c19e-4f6c-8af0-e20608a9f55c" />
+<img width="1910" height="756" alt="09-application-table" src="./File/09-application-table.png" />
 
 ### Editing a record
 
@@ -159,7 +159,7 @@ The detailed dialog opens from the pencil icon in the table or on the Kanban boa
 - **ABBRECHEN** — closes the dialog without saving changes.
 - **SPEICHERN** — saves the application's changes and updated attachment list to the database, then closes the dialog.
 
-<img width="1156" height="883" alt="10-application-details" src="https://github.com/user-attachments/assets/fbb4d313-fafa-49cc-9540-fa0837a02717" />
+<img width="1156" height="883" alt="10-application-details" src="./File/10-application-details.png" />
 
 ## 7. Reports and print templates
 
@@ -200,7 +200,7 @@ The dialog contains:
 
 Use the **X** button in the upper-right corner to close the preview and return to the previous form.
 
-<img width="969" height="863" alt="11-document-preview" src="https://github.com/user-attachments/assets/964ad18a-0a77-493b-a9de-ee2bd91650b3" />
+<img width="969" height="863" alt="11-document-preview" src="./File/11-document-preview.png" />
 
 ---
 
