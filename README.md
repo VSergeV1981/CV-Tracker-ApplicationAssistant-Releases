@@ -1,3 +1,14 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-C%23-blue?style=flat" alt="Language C#">
+  <img src="https://img.shields.io/badge/Framework-.NET%209-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET 9">
+  <img src="https://img.shields.io/badge/Platform-Windows%20x64-0078D4?style=flat&logo=windows&logoColor=white" alt="Windows x64">
+  <img src="https://img.shields.io/badge/Frontend-Blazor%20Server-512BD4?style=flat&logo=blazor&logoColor=white" alt="Blazor Server">
+  <img src="https://img.shields.io/badge/Pattern-Clean%20Architecture-2EA44F?style=flat" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Reporting-FastReport-orange?style=flat" alt="FastReport">
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat" alt="MIT License">
+</p>
+
 Self-contained .NET 9 Windows x64 build.
 Published application with obfuscated assemblies.
 Obfuscar version: 2.2.50.
