@@ -108,7 +108,7 @@ The navigation bar contains:
 
 The Home page displays a Kanban board with colored columns representing application statuses. This makes it easier to track the processing stage of each application.
 
-- **Filter panel** — the **Von / Bis** fields specify a date range; **Suche** searches by keywords in real time.
+- **Filter panel** — the **From / To** fields specify a date range; **Search** searches by keywords in real time.
 - **Status columns** — examples include *New*, *Contacted*, *Interview planned*, *Tech interview planned*, *Rejected*, and *Offer*. Each column header shows the number of applications (**COUNT**) in that status.
 - **Application cards** — display the application number (**Nr.**), company, position, creation date and author (**Created at**), and last modification date (**Last changed**).
 
