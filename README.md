@@ -87,7 +87,7 @@ Fields marked with an asterisk are required.
 
 After signing in, the main workspace is displayed. It consists of three areas:
 
-1. **Top navigation bar** — application logo, navigation links, language selector, and the signed-in user's profile.
+1. **Top navigation bar** — application logo, navigation links and the signed-in user's profile.
 2. **Main work area** — displays and allows users to edit application data.
 3. **Footer** — developer information and copyright notice.
 
