@@ -12,7 +12,7 @@
 Self-contained .NET 9 Windows x64 build.
 Published application with obfuscated assemblies.
 Obfuscar version: 2.2.50.
-Application version: 26.10.0111.
+Application version: 26.11.0023.
 # Application Assistant — User Guide
 
 Application Assistant helps organize job applications, track their status, store related documents, and generate PDF documents. Applications can be viewed on a Kanban board or in a table. The application was built with Blazor Server and Clean Architecture for learning purposes and uses SQLite as its database. The expected maximum volume is approximately 10,000 applications.
