@@ -37,12 +37,12 @@ To sign in:
 
 To register, click **Register** (link 4), located below the Sign In button, to open the registration form.
 
-![Figure 1. Login page](images/figure_01.png)
+![Figure 1. Login page](file/figure_01.png)
 *Figure 1. Login page overview*
 
 Clicking Register opens the account creation page (Figure 2).
 
-![Figure 2. Registration page](images/figure_02.png)
+![Figure 2. Registration page](file/figure_02.png)
 *Figure 2. Registration page overview*
 
 ### Registration form
@@ -54,7 +54,7 @@ The registration form is divided into two main parts:
 
 Use **Save** to complete the process or **Cancel** to discard changes. Switch between the sections using the **User** (1), **Person** (2), and **Default attachments** (3) tabs (Figure 3).
 
-![Figure 3. Registration form tabs](images/figure_03.png)
+![Figure 3. Registration form tabs](file/figure_03.png)
 *Figure 3. Registration form tabs*
 
 #### User tab
@@ -69,7 +69,7 @@ The User section contains:
 
 An asterisk (*) indicates a required field.
 
-![Figure 4. User registration fields](images/figure_04.png)
+![Figure 4. User registration fields](file/figure_04.png)
 *Figure 4. User section of the registration form*
 
 #### Person tab
@@ -89,7 +89,7 @@ The Person tab contains personal and contact details (Figure 5):
 
 Fields marked with an asterisk are required.
 
-![Figure 5. Personal details tab](images/figure_05.png)
+![Figure 5. Personal details tab](file/figure_05.png)
 *Figure 5. Person tab*
 
 #### Default attachments tab
@@ -103,7 +103,7 @@ The **Default attachments** tab (Figure 6) lets you upload documents that will b
 5. **Delete file button** — removes a file from the default list. First, double-click the file name in list 6 with the left mouse button; its name will appear in field 2. Then click button 5 to remove it.
 6. **Default documents list** — files stored for later use when working with applications.
 
-![Figure 6. Default attachments tab](images/figure_06.png)
+![Figure 6. Default attachments tab](file/figure_06.png)
 *Figure 6. Default attachments tab*
 
 **Note:** Each file in list 6 has a checkbox. When checked, the file is automatically copied from the default attachments list into the application's attachments list when a new application is created or an existing one is opened for editing. If unchecked, it will not be added automatically.
@@ -119,7 +119,7 @@ After a successful login, the user enters the main workspace. The home screen is
 2. **Main work area** (area 2) — central area where data is displayed and edited.
 3. **Bottom bar / Footer** (area 3) — developer information and copyright notice.
 
-![Figure 7. Main workspace](images/figure_07.png)
+![Figure 7. Main workspace](file/figure_07.png)
 *Figure 7. Main workspace*
 
 ### Top navigation bar
@@ -132,7 +132,7 @@ The navigation bar provides access to application sections and general informati
 4. **LOGOUT** (4) — securely signs out of the current account.
 5. **Profile** (5) — shows the signed-in user's avatar and greeting (for example, “Hallo, User”).
 
-![Figure 8. Top navigation bar](images/figure_08.png)
+![Figure 8. Top navigation bar](file/figure_08.png)
 *Figure 8. Top navigation bar*
 
 ### Main work area
@@ -153,7 +153,7 @@ Screen controls and structure:
   - Creation date and author (**Created at**)
   - Last modified date (**Last changed**)
 
-![Figure 9. Kanban board](images/figure_09.png)
+![Figure 9. Kanban board](file/figure_09.png)
 *Figure 9. Home page — Kanban board*
 
 #### Processing page: application management table
@@ -181,7 +181,7 @@ The **Processing** page is an interactive table for viewing the application data
 
 **Editing records:** The far-right column contains a pencil icon for each row. Clicking it transfers the record into an edit row, which appears blank. Select this blank row and press **F2** to open the detailed editing and viewing window. There you can manually update any personal or system data (including status), add comments about the current status, and attach PDF, DOC, or DOCX files. If the edit window has not been opened, editing can be cancelled with **Escape (Esc)**.
 
-![Figure 10. Application table](images/figure_10.png)
+![Figure 10. Application table](file/figure_10.png)
 *Figure 10. Application management table*
 
 
@@ -236,7 +236,7 @@ The window has three main areas: application information on the left, attachment
 13. **ABBRECHEN** (13) — cancels and closes the window without saving changes.
 14. **SPEICHERN** (14) — saves application changes and the updated file list to the database, then closes the window.
 
-![Figure 11. Application details/editing window](images/figure_11.png)
+![Figure 11. Application details/editing window](file/figure_11.png)
 *Figure 11. Application details and editing window*
 
 
@@ -255,7 +255,7 @@ The dialog includes:
    - Quick print and local-save functions through the viewer
 
 Click the X in the top-right corner to close the preview and return to the previous form.
-![Figure 12. Document preview](images/figure_12.png)
+![Figure 12. Document preview](file/figure_12.png)
 *Figure 12. Document preview window*
 
 
@@ -269,7 +269,7 @@ Available statuses: **New, Contacted, Interview planed, Tech interview planed, R
 - **RESET** — resets the palette settings.
 
 To change a status color, select its color control, choose the desired color, and click **SAVE**.
-![Figure 13. Status color palette editor](images/figure_13.png)
+![Figure 13. Status color palette editor](file/figure_13.png)
 *Figure 13. Status color palette editor*
 
 
